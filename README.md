@@ -42,3 +42,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 ```
+## Sample
+- You Can Try:- https://digitaltraficchallansystem-uxmgojkgcwacvgynvbe288.streamlit.app/
+- ![image](https://github.com/user-attachments/assets/3e6573ce-aa21-4948-872e-a5f2aee71645)
+
